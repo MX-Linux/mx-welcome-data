@@ -1,0 +1,6 @@
+mx-welcome-data (19.06.01) mx; urgency=medium
+
+  * initial build
+  * separte configuration package
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Jun 2019 13:25:09 -0400
