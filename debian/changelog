@@ -1,3 +1,9 @@
+mx-welcome-data (21.03.01mx21) mx; urgency=medium
+
+  * installer icon 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 Mar 2021 19:53:21 -0500
+
 mx-welcome-data (21.02.01mx21) mx; urgency=medium
 
   * initial bullseye package 
