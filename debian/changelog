@@ -1,3 +1,9 @@
+mx-welcome-data (21.10.01mx21) mx; urgency=medium
+
+  * Initial packaging with new MX Tour icon for MX-21.
+
+ -- SwampRabbit <swamprabbit@mxlinux.org>  Tue, 19 Oct 2021 17:03:52 -0400
+
 mx-welcome-data (21.09.02mx21) mx; urgency=medium
 
   * new header graphic 
