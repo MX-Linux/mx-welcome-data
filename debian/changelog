@@ -1,8 +1,50 @@
-mx-welcome-data (20.10.02) mx; urgency=medium
+mx-welcome-data (21.10.02mx19) mx; urgency=medium
 
-  * 19.4 strings
+  * swamprabbit's icon 
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 19 Mar 2021 21:06:07 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 19 Oct 2021 17:56:54 -0400
+
+mx-welcome-data (21.10.01mx21) mx; urgency=medium
+
+  * mx-tour
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 16 Oct 2021 17:05:49 -0400
+
+mx-welcome-data (21.09.02mx21) mx; urgency=medium
+
+  * new header graphic 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 09 Sep 2021 22:06:21 -0400
+
+mx-welcome-data (21.04.02mx21) mx; urgency=medium
+
+  * new header graphic
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 17 Apr 2021 08:19:17 -0400
+
+mx-welcome-data (21.04.01mx21) mx; urgency=medium
+
+  * add header graphics
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 03 Apr 2021 23:14:20 -0400
+
+mx-welcome-data (21.03.02mx21) mx; urgency=medium
+
+  * wildflower
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 23 Mar 2021 19:52:41 -0400
+
+mx-welcome-data (21.03.01mx21) mx; urgency=medium
+
+  * installer icon 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 Mar 2021 19:53:21 -0500
+
+mx-welcome-data (21.02.01mx21) mx; urgency=medium
+
+  * initial bullseye package 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 11 Feb 2021 13:00:14 -0500
 
 mx-welcome-data (20.10.01) mx; urgency=medium
 
